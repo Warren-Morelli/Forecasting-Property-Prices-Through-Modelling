@@ -1,0 +1,44 @@
+# My repository and its contents
+
+
+├── README FIRST.md  <- The README for this repo branch explaining it's contents - You're reading it now
+
+├── Notebook - Evaluating & forecasting property prices through modelling.ipynb  <- Presentable regression model project within a Jupyter notebook environment.
+
+├── PDF Slides - Evaluating & forecasting property prices through modelling <- PDF format of my presentation.
+
+├── Presentation - Evaluating & forecasting property prices through modelling.mp4 <- Recording of my regression model project presentation for future reference.
+
+├── data <- The data I used for this project - kc_house_data.csv
+
+└── images <- The images I used for this project
+
+
+
+Please review my full regression model project in *Notebook - Evaluating & forecasting property prices through modelling.ipynb* or my presentation *Presentation - Evaluating & forecasting property prices through modelling.mp4*
+
+For any additional questions, please contact Warren Morelli at warren@momo-mktg.com
+
+
+- - -
+
+
+## Title - Evaluating & forecasting property prices through modelling
+
+**Author**: Warren Morelli
+
+## Overview
+
+I am tasked to help a Real Estate Buyer's Agency in seeking to identify key property features, such as square footage and number of rooms, to identify undervalued properties that can be presented as investment opportunities for clients. Additionally, I developed a predictive model to assist buyer's agents in quickly determining if a property is undervalued and represents a viable investment opportunity.
+
+
+## Data
+
+The data utilized in this project was sourced from the kc_house_data CSV file. The data set is comprised of 21,597 rows and 21 columns, providing an ample amount of information for modeling purposes. This comprehensive data set is well-suited to support the modeling process and can be expected to yield reliable results.
+
+
+## Results
+
+Based on the results of my modeling efforts, it has been determined that the predictors that exert the most significant impact on the sale price are, in order of importance: waterfront view, grade of the property, number of bathrooms, and living area.
+
+Additionally, I developed a predictive model to assist buyer's agents in quickly determining if a property is undervalued and represents a viable investment opportunity.
